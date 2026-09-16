@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
     <application
-        android:label="dementia_care"
+        android:label="Dementia Care"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
